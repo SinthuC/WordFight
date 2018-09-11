@@ -1,0 +1,1837 @@
+fileFormatVersion: 2
+guid: a28fc86e23de34908a68393a8ff13cd7
+timeCreated: 1525973368
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - Leader A_0
+    21300002: PC Computer - MapleStory - Leader A_1
+    21300004: PC Computer - MapleStory - Leader A_2
+    21300006: PC Computer - MapleStory - Leader A_3
+    21300008: PC Computer - MapleStory - Leader A_4
+    21300010: PC Computer - MapleStory - Leader A_5
+    21300012: PC Computer - MapleStory - Leader A_6
+    21300014: PC Computer - MapleStory - Leader A_7
+    21300016: PC Computer - MapleStory - Leader A_8
+    21300018: PC Computer - MapleStory - Leader A_9
+    21300020: PC Computer - MapleStory - Leader A_10
+    21300022: PC Computer - MapleStory - Leader A_11
+    21300024: PC Computer - MapleStory - Leader A_12
+    21300026: PC Computer - MapleStory - Leader A_13
+    21300028: PC Computer - MapleStory - Leader A_14
+    21300030: PC Computer - MapleStory - Leader A_15
+    21300032: PC Computer - MapleStory - Leader A_16
+    21300034: PC Computer - MapleStory - Leader A_17
+    21300036: PC Computer - MapleStory - Leader A_18
+    21300038: PC Computer - MapleStory - Leader A_19
+    21300040: PC Computer - MapleStory - Leader A_20
+    21300042: PC Computer - MapleStory - Leader A_21
+    21300044: PC Computer - MapleStory - Leader A_22
+    21300046: PC Computer - MapleStory - Leader A_23
+    21300048: PC Computer - MapleStory - Leader A_24
+    21300050: PC Computer - MapleStory - Leader A_25
+    21300052: PC Computer - MapleStory - Leader A_26
+    21300054: PC Computer - MapleStory - Leader A_27
+    21300056: PC Computer - MapleStory - Leader A_28
+    21300058: PC Computer - MapleStory - Leader A_29
+    21300060: PC Computer - MapleStory - Leader A_30
+    21300062: PC Computer - MapleStory - Leader A_31
+    21300064: PC Computer - MapleStory - Leader A_32
+    21300066: PC Computer - MapleStory - Leader A_33
+    21300068: PC Computer - MapleStory - Leader A_34
+    21300070: PC Computer - MapleStory - Leader A_35
+    21300072: PC Computer - MapleStory - Leader A_36
+    21300074: PC Computer - MapleStory - Leader A_37
+    21300076: PC Computer - MapleStory - Leader A_38
+    21300078: PC Computer - MapleStory - Leader A_39
+    21300080: PC Computer - MapleStory - Leader A_40
+    21300082: PC Computer - MapleStory - Leader A_41
+    21300084: PC Computer - MapleStory - Leader A_42
+    21300086: PC Computer - MapleStory - Leader A_43
+    21300088: PC Computer - MapleStory - Leader A_44
+    21300090: PC Computer - MapleStory - Leader A_45
+    21300092: PC Computer - MapleStory - Leader A_46
+    21300094: PC Computer - MapleStory - Leader A_47
+    21300096: PC Computer - MapleStory - Leader A_48
+    21300098: PC Computer - MapleStory - Leader A_49
+    21300100: PC Computer - MapleStory - Leader A_50
+    21300102: PC Computer - MapleStory - Leader A_51
+    21300104: PC Computer - MapleStory - Leader A_52
+    21300106: PC Computer - MapleStory - Leader A_53
+    21300108: PC Computer - MapleStory - Leader A_54
+    21300110: PC Computer - MapleStory - Leader A_55
+    21300112: PC Computer - MapleStory - Leader A_56
+    21300114: PC Computer - MapleStory - Leader A_57
+    21300116: PC Computer - MapleStory - Leader A_58
+    21300118: PC Computer - MapleStory - Leader A_59
+    21300120: PC Computer - MapleStory - Leader A_60
+    21300122: PC Computer - MapleStory - Leader A_61
+    21300124: PC Computer - MapleStory - Leader A_62
+    21300126: PC Computer - MapleStory - Leader A_63
+    21300128: PC Computer - MapleStory - Leader A_64
+    21300130: PC Computer - MapleStory - Leader A_65
+    21300132: PC Computer - MapleStory - Leader A_66
+    21300134: PC Computer - MapleStory - Leader A_67
+    21300136: PC Computer - MapleStory - Leader A_68
+    21300138: PC Computer - MapleStory - Leader A_69
+    21300140: PC Computer - MapleStory - Leader A_70
+    21300142: PC Computer - MapleStory - Leader A_71
+    21300144: PC Computer - MapleStory - Leader A_72
+    21300146: PC Computer - MapleStory - Leader A_73
+    21300148: PC Computer - MapleStory - Leader A_74
+    21300150: PC Computer - MapleStory - Leader A_75
+    21300152: PC Computer - MapleStory - Leader A_76
+    21300154: PC Computer - MapleStory - Leader A_77
+    21300156: PC Computer - MapleStory - Leader A_78
+    21300158: PC Computer - MapleStory - Leader A_79
+    21300160: PC Computer - MapleStory - Leader A_80
+    21300162: PC Computer - MapleStory - Leader A_81
+    21300164: PC Computer - MapleStory - Leader A_82
+    21300166: PC Computer - MapleStory - Leader A_83
+    21300168: PC Computer - MapleStory - Leader A_84
+    21300170: PC Computer - MapleStory - Leader A_85
+    21300172: PC Computer - MapleStory - Leader A_86
+    21300174: PC Computer - MapleStory - Leader A_87
+    21300176: PC Computer - MapleStory - Leader A_88
+    21300178: PC Computer - MapleStory - Leader A_89
+    21300180: PC Computer - MapleStory - Leader A_90
+    21300182: PC Computer - MapleStory - Leader A_91
+    21300184: PC Computer - MapleStory - Leader A_92
+    21300186: PC Computer - MapleStory - Leader A_93
+    21300188: PC Computer - MapleStory - Leader A_94
+    21300190: PC Computer - MapleStory - Leader A_95
+    21300192: PC Computer - MapleStory - Leader A_96
+    21300194: PC Computer - MapleStory - Leader A_97
+    21300196: PC Computer - MapleStory - Leader A_98
+    21300198: PC Computer - MapleStory - Leader A_99
+    21300200: PC Computer - MapleStory - Leader A_100
+    21300202: PC Computer - MapleStory - Leader A_101
+    21300204: PC Computer - MapleStory - Leader A_102
+    21300206: PC Computer - MapleStory - Leader A_103
+    21300208: PC Computer - MapleStory - Leader A_104
+    21300210: PC Computer - MapleStory - Leader A_105
+    21300212: PC Computer - MapleStory - Leader A_106
+    21300214: PC Computer - MapleStory - Leader A_107
+    21300216: PC Computer - MapleStory - Leader A_108
+    21300218: PC Computer - MapleStory - Leader A_109
+    21300220: PC Computer - MapleStory - Leader A_110
+    21300222: PC Computer - MapleStory - Leader A_111
+    21300224: PC Computer - MapleStory - Leader A_112
+    21300226: PC Computer - MapleStory - Leader A_113
+    21300228: PC Computer - MapleStory - Leader A_114
+    21300230: PC Computer - MapleStory - Leader A_115
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 806
+        width: 78
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 806
+        width: 79
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 806
+        width: 79
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_3
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 806
+        width: 77
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_4
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 806
+        width: 77
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_5
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 806
+        width: 77
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_6
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 806
+        width: 77
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_7
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 806
+        width: 77
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_8
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 806
+        width: 77
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_9
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 806
+        width: 77
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 704
+        width: 47
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 704
+        width: 58
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_12
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 704
+        width: 75
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 707
+        width: 46
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_14
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 702
+        width: 73
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 707
+        width: 45
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_16
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 702
+        width: 73
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_17
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 708
+        width: 45
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_18
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 702
+        width: 73
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_19
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 758
+        width: 38
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_20
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 758
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_21
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 758
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_22
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 755
+        width: 27
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_23
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 756
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_24
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 756
+        width: 76
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_25
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 758
+        width: 30
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_26
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 728
+        width: 76
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_27
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 744
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_28
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 744
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_29
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 744
+        width: 28
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_30
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 744
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_31
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 744
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_32
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 730
+        width: 23
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_33
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 730
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_34
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 730
+        width: 28
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 608
+        width: 77
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_36
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 608
+        width: 78
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_37
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 608
+        width: 77
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_38
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 608
+        width: 77
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_39
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 616
+        width: 43
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 524
+        width: 76
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_41
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 524
+        width: 120
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_42
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 524
+        width: 120
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_43
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 524
+        width: 78
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_44
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 524
+        width: 96
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_45
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 524
+        width: 49
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_46
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 538
+        width: 86
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_47
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 524
+        width: 114
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_48
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 536
+        width: 85
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_49
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 521
+        width: 114
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 83
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_51
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 428
+        width: 114
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_52
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 446
+        width: 83
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_53
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 428
+        width: 114
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_54
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 417
+        width: 64
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_55
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 328
+        width: 96
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_56
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 328
+        width: 49
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_57
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 328
+        width: 70
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_58
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 314
+        width: 78
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_59
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 329
+        width: 70
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_60
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 314
+        width: 78
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_61
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 329
+        width: 68
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_62
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 314
+        width: 78
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_63
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 327
+        width: 67
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_64
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 310
+        width: 78
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_65
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 322
+        width: 73
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_66
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 219
+        width: 53
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_67
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 220
+        width: 85
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_68
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 220
+        width: 52
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_69
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 220
+        width: 85
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_70
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 220
+        width: 52
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_71
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 220
+        width: 85
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_72
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 220
+        width: 52
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_73
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 220
+        width: 85
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_74
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 204
+        width: 69
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_75
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 118
+        width: 67
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_76
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 197
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_77
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 184
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_78
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 158
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_79
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 153
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_80
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 95
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_81
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 94
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_82
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 93
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_83
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 94
+        width: 10
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_84
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 101
+        width: 16
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_85
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 104
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_86
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 67
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_87
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 90
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_88
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 97
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_89
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 97
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_90
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 87
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_91
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 90
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_92
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 82
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_93
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 16
+        width: 59
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_94
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 76
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_95
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 16
+        width: 65
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_96
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 83
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_97
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 79
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_98
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 16
+        width: 55
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_99
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 16
+        width: 62
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_100
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 16
+        width: 63
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_101
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 56
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_102
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 56
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_103
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 57
+        width: 30
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_104
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 16
+        width: 62
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_105
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 16
+        width: 53
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_106
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 16
+        width: 62
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_107
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 16
+        width: 53
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_108
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 16
+        width: 62
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_109
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 16
+        width: 53
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_110
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 51
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_111
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 47
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_112
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 52
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_113
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 42
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_114
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 47
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leader A_115
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 42
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
