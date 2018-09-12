@@ -11,6 +11,11 @@ public class GameManager : MonoBehaviour {
 	public enemyController enemy;
 	public Animator[] animation = new Animator[2];
 	public Word[] words;
+	public DatabaseController databaseController;
+
+	private int correctCount = 0;
+	private int incorrectCount = 0;
+	private int isWinRecord;
 	private static List<Word> unSelectWords ;
 	private static List<Word> unSelectChoices ;
 	private Word currentWord;
@@ -163,11 +168,13 @@ public class GameManager : MonoBehaviour {
 			Debug.Log ("TRUE!!");
 			WordText.text  = "CORRECT!!";
 			player.attack ();
+			correctCount++;
 		} else {
 			soundManager.PlaySoundFalse();
 			Debug.Log ("FALSE!!");
 			WordText.text = "WRONG!!";
 			enemy.attack ();
+			incorrectCount++;
 		}
 		StartCoroutine (TransitionToNextWord());
 	}
@@ -178,6 +185,7 @@ public class GameManager : MonoBehaviour {
 		if(!oneTime){
 		soundManager.PlaySoundGameOver();
 		oneTime=true;
+		databaseController.insertvalue(correctCount,incorrectCount,0); 
 		}
 
 	}
@@ -188,6 +196,7 @@ public class GameManager : MonoBehaviour {
 		if(!oneTime){
 		soundManager.PlaySoundCleared();
 		oneTime=true;
+		databaseController.insertvalue(correctCount,incorrectCount,1); 
 		}
 
 	}
